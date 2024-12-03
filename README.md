@@ -14,6 +14,7 @@ Sistemas de Informação
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="36" height="36" alt="Spring Boot" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift Logo" width="100">
 
 ##
 
