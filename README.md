@@ -8,7 +8,18 @@ Sistemas de Informação
 </div>
 <br>
 
+## Frontend 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,java,mysql,nextjs,postgres,prisma,react,spring,swift,tailwind,ts,)](https://skillicons.dev)
-##
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
 
+## Backend 
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+
+## Banco de Dados
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,prisma)](https://skillicons.dev)
+
+## Outras
+
+[![My Skills](https://skillicons.dev/icons?i=c,cs,swift)](https://skillicons.dev)
