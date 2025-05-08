@@ -20,6 +20,10 @@ Sistemas de Informação
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,prisma)](https://skillicons.dev)
 
+## Mobile
+
+[![My Skills](https://skillicons.dev/icons?i=swift,flutter)](https://skillicons.dev)
+
 ## Outras
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs)](https://skillicons.dev)
